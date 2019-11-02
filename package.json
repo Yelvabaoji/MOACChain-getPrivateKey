@@ -1,0 +1,26 @@
+{
+  "name": "moacchain-getprivatekey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getPrivateKey.js",
+  "dependencies": {
+    "chain3": "^0.1.21",
+    "express": "^4.17.1",
+    "keccak": "^2.0.0",
+    "secp256k1": "^3.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yelvabaoji/MOACChain-getPrivateKey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yelvabaoji/MOACChain-getPrivateKey/issues"
+  },
+  "homepage": "https://github.com/Yelvabaoji/MOACChain-getPrivateKey#readme"
+}
