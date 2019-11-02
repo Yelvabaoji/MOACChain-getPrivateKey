@@ -23,7 +23,7 @@ var BigNumber = chain3.BigNumber;
 
 
 getWalletInfo(
-  'dd309044603a35d52468a481b922cfca85b1caed27e97531255ca34bf884b66e',
+  'private key here',
   true,
   '0x03afc7ca5b56434ebcf8f03eb80f9c52d6b36fed'
 )
